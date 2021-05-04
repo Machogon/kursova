@@ -24,7 +24,7 @@ body, html {
 }
 
 .alert {
-    width: 75%;
+    width: 80%;
     margin: 0 auto;
     padding-top: 2em;
 }
@@ -36,5 +36,11 @@ body, html {
     margin-bottom: 1em;
 }
 
+#hur {
+    border-top: 2px solid rgb(77, 138, 118);
+    width: 80%;
+    margin-top: 0.3em;
+    margin-bottom: 1em;
+}
 
 

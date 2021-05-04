@@ -8,6 +8,7 @@ body, html {
     background-color: #494f57;
 }
 
+
 .navbar-nav li {
     padding-right: 20px;
 }
@@ -24,7 +25,7 @@ body, html {
 }
 
 .alert {
-    width: 75%;
+    width: 80%;
     margin: 0 auto;
     padding-top: 2em;
 }
@@ -34,6 +35,47 @@ body, html {
     width: 95%;
     margin-top: 0.3em;
     margin-bottom: 1em;
+}
+
+#hur {
+    border-top: 2px solid rgb(77, 138, 118);
+    width: 80%;
+    margin-top: 0.3em;
+    margin-bottom: 1em;
+}
+
+
+#imga {
+  display: inline-block;
+  height: auto;
+  max-width: 100%;
+  padding-bottom: 2em;
+}
+
+#list1 {
+    text-align: left;
+}
+
+.display-5 {
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+
+#toTop {
+    width:100px;
+    border:1px solid rgb(0, 0, 0);
+    background:#3b689c;
+    text-align:center;
+    padding:5px;
+    position:fixed;
+    bottom:30px;
+    right:30px;
+    cursor:pointer;
+    display:none;
+    color:rgb(229, 226, 226);
+    font-family: 'Poppins', sans-serif;
+    font-size:15px;
+    border-radius: 10px;
 }
 
 
