@@ -8,6 +8,10 @@ body, html {
     background-color: #494f57;
 }
 
+p {
+    text-align: justify;
+}
+
 .navbar-nav li {
     padding-right: 20px;
 }
@@ -47,10 +51,6 @@ body, html {
     text-align: left;
 }
 
-.display-5 {
-    padding-top: 1em;
-    padding-bottom: 0.5em;
-}
 
 #toTop {
     width:100px;

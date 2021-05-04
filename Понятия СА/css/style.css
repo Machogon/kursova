@@ -8,6 +8,10 @@ body, html {
     background-color: #494f57;
 }
 
+p {
+    text-align: justify;
+}
+
 .navbar-nav li {
     padding-right: 20px;
 }
