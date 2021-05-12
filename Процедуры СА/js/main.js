@@ -12,3 +12,9 @@ $(function() {
         }, 800);
     });
 });
+
+$(document).ready(function(){
+    $("#flip").click(function(){
+        $("#panel").slideToggle("slow");
+    });
+});
